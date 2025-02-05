@@ -1,0 +1,47 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.out
+*.err
+
+# Diretórios de dependências (gerados automaticamente)
+node_modules/
+vendor/
+
+# Arquivos temporários do editor
+*.swp
+*.swo
+.vscode/
+.idea/
+*.bak
+
+# Arquivos do sistema operacional
+*.tmp
+*.cache
+*.lock
+
+# Arquivos compilados
+*.class
+*.exe
+*.dll
+*.so
+*.o
+*.a
+*.pyc
+*.pyo
+*.pyd
+
+# Credenciais sensíveis (NUNCA envie para o GitHub)
+.env
+*.pem
+*.key
+*.crt
+
+# Ignorar arquivos do Unity
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+Logs/
